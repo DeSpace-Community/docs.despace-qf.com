@@ -56,14 +56,14 @@ Seeking continues funding to run Quarterly Featured Rounds on Gitcoin. 100% of t
 
 | Name | How involved | Descripion | Github | Status |
 |-----|----|----|---|
-| SpaceDAO.AI |
-| LunCo |
-| SpaceRox |
-| [Orbiculum](https://twitter.com/Orbuculum_xyz) |
-|Cosmos4Humanity |
-| Astrocool | Potential Grantee |
-| MoonDAO | Grantee / Sponsors |
-| SpaceBIODao | |
+| SpaceDAO.AI | |||
+| LunCo ||||
+| SpaceRox ||||
+| [Orbiculum](https://twitter.com/Orbuculum_xyz) ||||
+|Cosmos4Humanity ||||
+| Astrocool | Potential Grantee |||
+| MoonDAO | Grantee / Sponsors |||
+| SpaceBIODao | |||
 
 #### List of supporters
 
