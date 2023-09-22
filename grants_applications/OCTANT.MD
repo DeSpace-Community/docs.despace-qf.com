@@ -117,6 +117,8 @@ Adam Boyle is the founder of SpaceRoxDAO supporting public goods in Space and on
 8. [Griff Green](https://twitter.com/thegrifft/status/1688942962452160512) mentions on Twitter
 9. [85 projects in the pipeline](https://docs.google.com/spreadsheets/d/1r2GlyRF5s6dDPXsYlcTqNmF4KbDgzM3duFYaob3DKcs/edit#gid=0) (related to despace) and growing
 ## Engaged with those DeSpace entities
+
+*Note: Confirmed status means that project will participate as a Grantee in the upcoming round*
   
 |Name|How involved|Status|Descripion|Github|X|LinkedIn|
 |---|---|---|---|---|---|---|
