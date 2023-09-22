@@ -115,7 +115,8 @@ Adam Boyle is the founder of SpaceRoxDAO supporting public goods in Space and on
 6. Copernics Space
 7. Launched [GreenPill DeSpace](https://discord.gg/greenpill) spinoff to focus on regen fundraising for QF
 8. [Griff Green](https://twitter.com/thegrifft/status/1688942962452160512) mentions on Twitter
-9. [85 projects in the pipeline](https://docs.google.com/spreadsheets/d/1r2GlyRF5s6dDPXsYlcTqNmF4KbDgzM3duFYaob3DKcs/edit#gid=0) (related to despace) and growing
+9. [~50 projects on SpaceDegens](https://spacedegens.io), most of them are active and in touch with others
+
 ## Engaged with those DeSpace entities
 
 *Note: Confirmed status means that project will participate as a Grantee in the upcoming round*
