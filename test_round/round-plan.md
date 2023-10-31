@@ -13,3 +13,16 @@ All spaces will be on [DeSpaceQF X](https://x.com/DeSpaceQF)
 4. 23 Nov 1600 UTC - Second Shill spaces
 5. 30 Nov 1600 UTC - Third shill spaces
 6. 7 Dec 1600 UTC - closing spaces
+
+## Audience Segmentation
+
+|Engagement with the industry| In Web3 | Not in Web3|
+|--------|----|---|
+|Space Professional|||
+|Space Enthusiast| ||
+|Space-Ready|||
+| Space media |||
+| Space bloggers|||
+| Sponsors|||
+| Grantees|||
+
