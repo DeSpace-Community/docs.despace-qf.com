@@ -1,13 +1,15 @@
 # DeSpace QF Test Round Plan
 
 Dates: 15 Nov - 7 Dec
-Apply here (link TBD)
+
+
+**[Link to Apply](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)**
 
 ## Introduction
 
 DeSpace Quadratic Fund goal is to support growing Decentralized Space Exploration projects ecosystem by running Quadratic Funding Rounds quarterly simultaneously with Gitcoin.
 
-Lot of projects that are eligible for DeSpace round are eligible for [Other Gitcoin Grants](https://grants.gitcoin.co/) , hence it's recommended to Grantes to apply for every relevant to their project round.
+Lot of projects that are eligible for DeSpace round are eligible for [Other Gitcoin Grants](https://grants.gitcoin.co/) , hence it's recommended to Grantees to apply for every relevant to their project round.
 
 ## Brief
 
@@ -15,9 +17,11 @@ Lot of projects that are eligible for DeSpace round are eligible for [Other Gitc
 2. Money is Distributed among Grantees (DeSpace Projects) using Quadratic Fund
 3. To get a portion of the fund Grantees has to raise donations, asking people to vote for project with money
 4. Votes shouldn't be bought in any sense. No Quid pro quo
-5. Voting happens onchain using Gitcoin Allo protocol Stack
+5. Voting happens on-chain using Gitcoin Allo protocol Stack
 6. To protect from Sybil Attacks Donors would have get get XX [Gitcoin Passport ](https://passport.gitcoin.co/)score, where XX - TBD
-7. The round will happen on L2 with $ETH and $DAI, so Donors would have to Bridge their assets into the applicable chain, using. e.g. [Hop Exchange](https://app.hop.exchange/)
+7. The round will be on Arbitrum One chain, with $ETH, $USDC, $ARB accepted for vonations. This chain uses $ETH to pay for gas, so donating in $ETH would require less steps.
+8. Donors would have to Bridge their assets into Arbitrum One Chain, using [official Bridge](https://bridge.arbitrum.io)  or any other that could work e.g. [Hop Exchange](https://app.hop.exchange/).
+9. **Don't transfer large amounts** Start small for test
 
 ## Roadmap
 
