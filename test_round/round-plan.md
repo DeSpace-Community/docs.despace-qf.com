@@ -5,6 +5,8 @@ Dates: 15 Nov - 7 Dec
 
 **[Link to Apply](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)**
 
+[Official Gitcoin Grantee portal](https://grants-portal.gitcoin.co/gitcoin-grants-donor-portal) for guidance with the application process, or ask on the [Telegram Group](https://t.me/despaceqf)
+
 ## Introduction
 
 DeSpace Quadratic Fund goal is to support growing Decentralized Space Exploration projects ecosystem by running Quadratic Funding Rounds quarterly simultaneously with Gitcoin.
