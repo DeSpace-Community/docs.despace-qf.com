@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"4170cdc9a9e28977","type":"text","text":"DeSpace QF","x":-660,"y":-20,"width":250,"height":60},
+		{"id":"e76f0fde1f3ba824","type":"text","text":"Fundraising","x":-260,"y":-20,"width":250,"height":60},
+		{"id":"44c7ff4a6b7f95a0","type":"text","text":"Round Manager (Manu, Rod, Red, Paul, Adam)","x":162,"y":177,"width":250,"height":60},
+		{"id":"9e71f4aa4943b86a","type":"text","text":"Site Maintanace (red)","x":158,"y":290,"width":250,"height":60},
+		{"id":"1ede1f10154b97c7","type":"text","text":"Giveth Page (Paul)","x":159,"y":384,"width":250,"height":60},
+		{"id":"c025b2663dab4202","type":"text","text":"Steward's Project on the round (Paul)","x":160,"y":474,"width":250,"height":60},
+		{"id":"ac7ddac505e3b284","type":"text","text":"Operations","x":-240,"y":290,"width":250,"height":60},
+		{"id":"7fec3d734245693b","type":"text","text":"Arbitrum (Rod, Manu)","x":162,"y":-20,"width":250,"height":60},
+		{"id":"38552fac2baf935e","type":"text","text":"Marketing & PR","x":-260,"y":-400,"width":250,"height":60},
+		{"id":"6a6e624ab909e339","type":"text","text":"Gitcoin Ecosystem","x":90,"y":-510,"width":250,"height":60},
+		{"id":"a8c52e9c4cb730c6","type":"text","text":"Twitter","x":90,"y":-394,"width":250,"height":60},
+		{"id":"79021df4cff3fd6e","type":"text","text":"Web2 Space enthisiasts","x":90,"y":-626,"width":250,"height":60},
+		{"id":"6ad9f33d8e333e33","type":"text","text":"Web2 Media","x":90,"y":-742,"width":250,"height":60},
+		{"id":"8c0d2ec9bce3bf5e","type":"text","text":"Space Influencers","x":427,"y":-429,"width":250,"height":60},
+		{"id":"c7b2b2b31cafad8d","type":"text","text":"Web3 influencers","x":427,"y":-346,"width":250,"height":60},
+		{"id":"2da607e423b8cf4b","type":"text","text":"Partnerships","x":90,"y":-157,"width":250,"height":60},
+		{"id":"103edfa044316d68","type":"text","text":"Linkedin","x":90,"y":-269,"width":250,"height":60},
+		{"id":"45f261a0052e00f5","type":"text","text":"Space professionals","x":427,"y":-269,"width":250,"height":60},
+		{"id":"c658ab9fc7169976","type":"text","text":"DeSpace projects","x":432,"y":-157,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1eedd398b24a5dd4","fromNode":"ac7ddac505e3b284","fromSide":"right","toNode":"44c7ff4a6b7f95a0","toSide":"left"},
+		{"id":"a51265fda1226178","fromNode":"ac7ddac505e3b284","fromSide":"right","toNode":"9e71f4aa4943b86a","toSide":"left"},
+		{"id":"69f6596cffa67d63","fromNode":"ac7ddac505e3b284","fromSide":"right","toNode":"1ede1f10154b97c7","toSide":"left"},
+		{"id":"ed6e723a6b17153d","fromNode":"ac7ddac505e3b284","fromSide":"right","toNode":"c025b2663dab4202","toSide":"left"},
+		{"id":"903a37ea1e050f68","fromNode":"e76f0fde1f3ba824","fromSide":"right","toNode":"7fec3d734245693b","toSide":"left"},
+		{"id":"498290003a2bee98","fromNode":"4170cdc9a9e28977","fromSide":"right","toNode":"ac7ddac505e3b284","toSide":"left"},
+		{"id":"120ca5963cb13ffa","fromNode":"4170cdc9a9e28977","fromSide":"right","toNode":"e76f0fde1f3ba824","toSide":"left"},
+		{"id":"696d3f9e7195d3bb","fromNode":"4170cdc9a9e28977","fromSide":"right","toNode":"38552fac2baf935e","toSide":"left"},
+		{"id":"d536a400ad017659","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"6a6e624ab909e339","toSide":"left"},
+		{"id":"c8f01f9207d1eaab","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"a8c52e9c4cb730c6","toSide":"left"},
+		{"id":"b3230ece0dd46e08","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"103edfa044316d68","toSide":"left"},
+		{"id":"2bc778abef4f140b","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"2da607e423b8cf4b","toSide":"left"},
+		{"id":"6fc155b4eec371fb","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"79021df4cff3fd6e","toSide":"left"},
+		{"id":"9acd08c815d72af9","fromNode":"38552fac2baf935e","fromSide":"right","toNode":"6ad9f33d8e333e33","toSide":"left"},
+		{"id":"8595614a9fa78987","fromNode":"a8c52e9c4cb730c6","fromSide":"right","toNode":"8c0d2ec9bce3bf5e","toSide":"left"},
+		{"id":"5bdc5fbe157ee4e8","fromNode":"a8c52e9c4cb730c6","fromSide":"right","toNode":"c7b2b2b31cafad8d","toSide":"left"},
+		{"id":"cb7a37d0bee12824","fromNode":"103edfa044316d68","fromSide":"right","toNode":"45f261a0052e00f5","toSide":"left"},
+		{"id":"c9b872e50f5377b7","fromNode":"2da607e423b8cf4b","fromSide":"right","toNode":"c658ab9fc7169976","toSide":"left"}
+	]
+}
