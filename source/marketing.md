@@ -1,4 +1,7 @@
-# Marketing
+# Promoting the project
+
+Here are some notes how we engage with the various communities. This information
+could help you determine how to contribute to channels or to specific segments.
 
 ## Audience Segmentation and Value Proposition
 
@@ -16,7 +19,7 @@
 |Web3 People||
 
 
-# Engagement with Gitcoin
+## Engagement with Gitcoin
 
 1. DeSpace QF to apply to Community Round
 2. DeSpace QF to be presented on Gitcoin Shilling spaces
@@ -29,22 +32,26 @@
 	2. Community rounds collabs?
 
 
-# Marketing
+## Various Channels 
 
-## Twitter
+### Twitter
 
 1. Engage with Influencers
 2. Highligh grantees
+3. Regular creation and participation to Twitter Spaces
 
-## Linkedin
+### Linkedin
+
 1. Regular posts on group
+2. Sporadic LinkedIN Audio events
 
-## Conventional media
+### Conventional media
+
 1. Get in touch with journalists
 2. Get in touch with Youtube blogers
 3. Press release
 
-## DeSpace community
+### DeSpace community
 
 1. Shills with DeSpace projects, that are not on the round
 2. Posts and reposts

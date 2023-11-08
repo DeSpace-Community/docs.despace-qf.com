@@ -9,6 +9,11 @@ Welcome to DeSpace QF's documentation!
 
 DeSpace QF stands for Decentralized Space Quadratic Funding.
 
+.. image:: img/logo-despaceqf.jpg
+   :scale: 60 %
+   :alt: DeSpace QF Logo
+   :align: center 
+
 The DeSpace QF initiative's purpose is to support decentralized projects related
 to space, to push for the betterment of technology and commercialization.
 It applies solidarity principles and is greatly inspired by regenerative finance
@@ -17,19 +22,35 @@ principles.
 The community is composed of project leaders, project supporters and
 contributors, investors, space fans and other external supports.
 
-.. image:: picture.jpg
-   :width: 200px
-   :height: 100px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
-
 You, me, them, everybody.
+
+Current Round overview
+----------------------
+
+ - Donations start on 15th of November and ends 7th of December
+ - [Apply with your project here](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)
+ - Round chain: **Arbitrum** (TBC)
+
+Current Roadmap
+---------------
+
+ #. **15 Nov -plan 7 Dec** - test round aka tiny or small round
+ #. 7 Dec - 21 Dec - Sybil analysis
+ #. 24 Dec - payouts
+ #. mid Feb 2024 - First Open Round
+ #. mid May 2024 - Second Round
+ #. mid Aug 2024 - Third Round
+ #. mid Nov 2024 - Forth Round
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   current-round-info.md
+   how-to-donate.md
+   how-to-join.md
+   marketing.md
+   FAQ.md
 
 
 Indices and tables
