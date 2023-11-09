@@ -1,6 +1,10 @@
 # docs.despace-qf.com
 
-Documentation for the DeSpace quadratic funding community
+## [Click for Current Round Info](source/current-round-info.md)
+
+Single Source of Truth Documentation for the DeSpace quadratic funding community.
+
+**Star & Watch** to follow latest news, fork and make PRs to contribute!
 
 ## Locally install and view the docs
 
