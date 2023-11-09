@@ -4,6 +4,8 @@ Dates: 15 Nov - 7 Dec
 
 **[Link to Apply](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)**
 
+**[How to donate](./how-to-donate.md)**
+
 Don't be shy and ask your questions on the [Telegram Group](https://t.me/despaceqf)
 
 ## Introduction
