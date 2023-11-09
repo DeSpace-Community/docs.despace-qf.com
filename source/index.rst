@@ -28,7 +28,8 @@ Current Round overview
 ----------------------
 
  - Donations start on 15th of November and ends 7th of December
- - [Apply with your project here](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)
+ - Apply with your project here:
+   https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688
  - Round chain: **Arbitrum** (TBC)
 
 Current Roadmap

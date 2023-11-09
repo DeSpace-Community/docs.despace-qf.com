@@ -12,4 +12,4 @@ manner. This means weathly wallets can less influence a vote.
 
 ## How can I donate?
 
-See [How to donate](#howtodonate)
+See [How to donate](how-to-donate)
