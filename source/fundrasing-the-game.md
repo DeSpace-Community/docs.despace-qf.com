@@ -14,3 +14,7 @@ The game has already started, so remember:
 # THE MORE YOU SPEND THE MORE YOU SUPPORT DESPACE!
 
 # TO JOIN THE GAME START SPEND MONEY ON DESPACE!
+
+# THE EASIEST WAY - MAKE [DONATION ON GIVETH](https://giveth.io/project/despace-qf-regenerative-space-exploration?tab=updates)
+
+*PS It's totally fine if you can't afford to play this game, we will hold more rounds later*
