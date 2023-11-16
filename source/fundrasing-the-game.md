@@ -12,3 +12,5 @@ We started to play the game when payed for DeSpace QF to be listed on [grants.gi
 The game has already started, so remember:
 
 # THE MORE YOU SPEND THE MORE YOU SUPPORT DESPACE!
+
+# TO JOIN THE GAME START SPEND MONEY ON DESPACE!
