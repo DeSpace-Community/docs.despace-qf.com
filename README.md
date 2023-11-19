@@ -3,6 +3,12 @@
 
 ## [DONATE TO CURRENT ROUND](https://explorer.gitcoin.co/#/round/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688)
 
+
+# [Round stats](https://reportcards.gitcoin.co/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688)
+
+
+
+
 ## [Click for Current Round Info](source/current-round-info.md)
 
 Single Source of Truth Documentation for the DeSpace quadratic funding community.

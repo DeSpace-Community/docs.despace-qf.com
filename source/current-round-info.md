@@ -4,6 +4,11 @@ Dates: 15 Nov - 7 Dec
 
 ## [DONATE TO CURRENT ROUND](https://explorer.gitcoin.co/#/round/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688)
 
+
+# [Round stats](https://reportcards.gitcoin.co/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688)
+
+
+
 **[Link to Apply](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)**
 
 **[How to donate](./how-to-donate.md)**
