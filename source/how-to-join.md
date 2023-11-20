@@ -1,10 +1,12 @@
 # How to Join
 
 How to register your project and become a grantee.
+If, instead, you want to know [how to donate click here](./how-to-donate.md)
 
 ## In our own words
 
 ### Requirements
+ - Find the application link in [current round information](./current-round-info.md)
  - You need a web3 address (Ethereum compatible), a **0x...**
  - Basic understanding of ethereum transactions (setup, fees and gas)
  - Basic understanding of network switching and bridges to transfer funds

@@ -13,3 +13,7 @@ manner. This means weathly wallets can less influence a vote.
 ## How can I donate?
 
 See [How to donate](how-to-donate)
+
+## I have million other questions
+
+Join [Telegram Group](https://t.me/despaceqf) and ask the community!
