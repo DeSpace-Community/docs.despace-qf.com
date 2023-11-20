@@ -2,7 +2,6 @@
 
 :::{card} Current Round Information
 
-
 ```{button-link} https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688
 :color: primary
 :shadow:
@@ -17,6 +16,13 @@
    {octicon}`heart;1em` View and Donate to projects
 ```
 
+```{button-link} https://reportcards.gitcoin.co/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688)
+:color: primary
+:shadow:
+
+   {octicon}`report;1em` View current round stats
+
+```
  - Dates in UTC: [14 Nov - 7 Dec[
  - Round Contract: [0x911ae126be7d88155aa9254c91a49f4d85b83688](https://arbiscan.io/address/0x911ae126be7d88155aa9254c91a49f4d85b83688#internaltx)
  - **[See the How to donate page for more guidance.](./how-to-donate.md)**
