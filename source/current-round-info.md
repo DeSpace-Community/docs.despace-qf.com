@@ -1,12 +1,32 @@
 # DeSpace QF Current Round Information
 
-Dates: 15 Nov - 7 Dec
+:::{card} Current Round Information
 
-**[Link to Apply](https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688)**
 
-**[How to donate](./how-to-donate.md)**
+```{button-link} https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688
+:color: primary
+:shadow:
 
-Don't be shy and ask your questions on the [Telegram Group](https://t.me/despaceqf)
+   {octicon}`pencil;1em` Apply
+```
+
+```{button-link} https://explorer.gitcoin.co/#/round/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688
+:color: primary
+:shadow:
+
+   {octicon}`heart;1em` View and Donate to projects
+```
+
+ - Dates in UTC: [14 Nov - 7 Dec[
+ - Round Contract: [0x911ae126be7d88155aa9254c91a49f4d85b83688](https://arbiscan.io/address/0x911ae126be7d88155aa9254c91a49f4d85b83688#internaltx)
+ - **[See the How to donate page for more guidance.](./how-to-donate.md)**
+:::
+
+
+Don't be shy and ask your questions on the [Telegram
+Group](https://t.me/despaceqf). Plenty of nice people there in all timezones,
+there will always be someone to answer simple.dumb.hard.complex.any
+of your questions.
 
 ## Introduction
 
@@ -14,17 +34,17 @@ DeSpace Quadratic Fund goal is to support growing Decentralized Space Exploratio
 
 Lot of projects that are eligible for DeSpace round are eligible for [Other Gitcoin Grants](https://grants.gitcoin.co/) , hence it's recommended to Grantees to apply for every relevant to their project round.
 
-## Brief
+## Brief recap of each round steps
 
- 1. DeSpace QF Community fund-raises money for The Fund
+ 1. The DeSpace QF stewards and community fund-raises money and find sponsors for The Fund (aka Matching pool)
  1. Money is Distributed among Grantees (DeSpace Projects) using Quadratic Fund
  1. To get a portion of the fund Grantees has to raise donations, asking people to vote for project with money
- 1. Votes shouldn't be bought in any sense. No Quid pro quo
+ 1. Votes shouldn't be bought in any sense. No Quid pro quo. (it will be detected)
  1. Voting happens on-chain using Gitcoin Allo protocol Stack
  1. To protect from Sybil Attacks Donors would have get get XX [Gitcoin Passport ](https://passport.gitcoin.co/)score, where XX - TBD
  1. The round will be on Arbitrum One chain, with $ETH, $USDC, $ARB accepted for vonations. This chain uses $ETH to pay for gas, so donating in $ETH would require less steps.
  1. Donors would have to Bridge their assets into Arbitrum One Chain, using [official Bridge](https://bridge.arbitrum.io)  or any other that could work e.g. [Hop Exchange](https://app.hop.exchange/).
- 1. **Don't transfer large amounts** Start small for test
+ 1. If this is your first time, we recommand you **only transfer small amounts** (coffee amounts)
 
 
 ## Twitter Spaces Plan
@@ -39,7 +59,7 @@ All spaces will be on [DeSpaceQF X](https://x.com/DeSpaceQF)
  1. [7 Dec 1600 UTC - DeSpaceQF: Finally the END, but SHILL must go on!](https://twitter.com/i/spaces/1mnGepqVEjvKX?s=20)
 
 
-### Gitcoin
+### Help from Gitcoin
 
 1. [Grant Builder](https://builder.gitcoin.co/)
 2. [All Gitcoin Grants](https://grants.gitcoin.co/)
