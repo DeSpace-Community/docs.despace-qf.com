@@ -15,8 +15,21 @@ If, instead, you want to know [how to donate click here](./how-to-donate.md)
 
 ### How to apply for the current DeSpace QF round
 
-TBD 
+ - Go on the builder link by checking the [current round information](./current-round-info.md)
+ - If you want to apply with an existing project then select it else use the "+ New Project" button on top left
+ - Fill up the form making sure you fullfill the DeSpace requirements
+    - Choose the network (we are currently on Arbitrum One)
+    - Preferrably use a multi-sig payout account (you can make one on https://app.safe.global/)
+    - Enter a project description in [markdown language](https://www.markdownguide.org/cheat-sheet/)
+    - When entering your twitter and github handles do not type the "@"
 
+
+ Once this is done you have registered your project on the network.
+ 
+ You can now apply to the round by reselecting it and adding information like
+ your payout address.
+
+   
 ### Recommendations
 
 Other rounds to apply to: TBD
